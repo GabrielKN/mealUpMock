@@ -1,0 +1,45 @@
+{"meals":[
+  { "id":"m1", "name":"Scrambled Eggs with Cheese","category":"Breakfast" },
+  { "id":"m2", "name":"Caramelized Banana Dark Chocolate Oatmeal","category":"Breakfast" },
+  { "id":"m3", "name":"Low Carb Breakfast Egg Muffins","category":"Breakfast" },
+  { "id":"m4", "name":"Caprese Sandwich with Parsley Pesto","category":"Lunch" },
+  { "id":"m5", "name":"Sweet Potato Noodle Stir-Fry":"Lunch" },
+  { "id":"m6", "Ricotta Spinach Calzones","category":"Lunch" },
+  { "id":"m7", "name":"Lentil Tortilla Soup","category":"Lunch" },
+  { "id":"m8", "name":"Caprese Pasta Salad","category":"Supper" },
+  { "id":"m9", "name":"Spaghetti Squash Burrito Bowls","category":"Supper" }
+]}
+
+{"mealDescription":[
+  { 
+    "mealId":"m1",
+    "description":"Best egg and cheese combination",
+    "image":"",
+    "ingredients":[
+      {"name":"2 eggs"},
+      {"name":"cheese"}
+     ], 
+    "instruction":[
+      {"step":"1","description":"Scramble fry 2 eggs in a pan","image":""},
+      {"step":"2","description":"Melt cheese in a pan","image":""}
+     ]
+  },
+  { 
+    "mealId":"m2",
+    "description":"Best egg muffins ever crafted in a stove",
+    "image":"",
+    "ingredients":[
+      {"name":"2 bananas"},
+      {"name":"4 part dark chocolate"},
+      {"name":"handful of oatmeal"},
+      {"name":"caramel"},
+      {"name":"baking flour"},
+      {"name":"3 eggs"},
+     ], 
+    "instruction":[
+      {"step":"1","Use 1/2 cup sugar. Reserve 1/4 cup of the flour, sprinkle it over 1 chopped bananas, and stir them into the batter last","image":""},
+      {"step":"2","Use 3/4 cup whole-wheat flour and 1 cup white flour","image":""},
+      {"step":"2","Add 3 strips bacon, fried crisp and crumbled, to the batter","image":""}
+     ]
+  },
+]}
