@@ -1,19 +1,17 @@
-{
-  "meals":[
-    {
-      "id": 1,
-      "name": "Banana Oats",
-      "category": "Breakfast"
-    },
-    {
-      "id": 2,
-      "name": "Sweet potato crunch",
-      "category": "Breakfast"
-    },
-    {
-      "id": 3,
-      "name": "Peanut butter oats",
-      "category": "Breakfast"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Banana Oats",
+    "category": "Breakfast"
+  },
+  {
+    "id": 2,
+    "name": "Sweet potato crunch",
+    "category": "Breakfast"
+  },
+  {
+    "id": 3,
+    "name": "Peanut butter oats",
+    "category": "Breakfast"
+  }
+]
