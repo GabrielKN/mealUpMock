@@ -3,8 +3,8 @@
   { "id":"m2", "name":"Caramelized Banana Dark Chocolate Oatmeal","category":"Breakfast" },
   { "id":"m3", "name":"Low Carb Breakfast Egg Muffins","category":"Breakfast" },
   { "id":"m4", "name":"Caprese Sandwich with Parsley Pesto","category":"Lunch" },
-  { "id":"m5", "name":"Sweet Potato Noodle Stir-Fry":"Lunch" },
-  { "id":"m6", "Ricotta Spinach Calzones","category":"Lunch" },
+  { "id":"m5", "name":"Sweet Potato Noodle Stir-Fry", "category":"Lunch" },
+  { "id":"m6", "name":"Ricotta Spinach Calzones","category":"Lunch" },
   { "id":"m7", "name":"Lentil Tortilla Soup","category":"Lunch" },
   { "id":"m8", "name":"Caprese Pasta Salad","category":"Supper" },
   { "id":"m9", "name":"Spaghetti Squash Burrito Bowls","category":"Supper" }
