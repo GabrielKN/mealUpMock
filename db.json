@@ -1,14 +1,19 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+  "meals":[
+    {
+      "id": 1,
+      "name": "Banana Oats",
+      "category": "Breakfast",
+    },
+    {
+      "id": 2,
+      "name": "Sweet potato crunch",
+      "category": "Breakfast",
+    },
+    {
+      "id": 3,
+      "name": "Peanut butter oats",
+      "category": "Breakfast",
+    }
+  ]
+}
