@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Banana Oats",
-      "category": "Breakfast",
+      "category": "Breakfast"
     },
     {
       "id": 2,
       "name": "Sweet potato crunch",
-      "category": "Breakfast",
+      "category": "Breakfast"
     },
     {
       "id": 3,
       "name": "Peanut butter oats",
-      "category": "Breakfast",
+      "category": "Breakfast"
     }
   ]
 }
