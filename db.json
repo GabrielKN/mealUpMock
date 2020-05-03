@@ -37,9 +37,9 @@
       {"name":"3 eggs"},
      ], 
     "instruction":[
-      {"step":"1","Use 1/2 cup sugar. Reserve 1/4 cup of the flour, sprinkle it over 1 chopped bananas, and stir them into the batter last","image":""},
-      {"step":"2","Use 3/4 cup whole-wheat flour and 1 cup white flour","image":""},
-      {"step":"2","Add 3 strips bacon, fried crisp and crumbled, to the batter","image":""}
+      {"step":"1","instruction":"Use 1/2 cup sugar. Reserve 1/4 cup of the flour, sprinkle it over 1 chopped bananas, and stir them into the batter last","image":""},
+      {"step":"2","instruction":"Use 3/4 cup whole-wheat flour and 1 cup white flour","image":""},
+      {"step":"2","instruction":"Add 3 strips bacon, fried crisp and crumbled, to the batter","image":""}
      ]
   },
 ]}
