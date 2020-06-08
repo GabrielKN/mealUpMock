@@ -28,6 +28,32 @@
     "image": ""
     }
   ],
+  "manifestProducts": [
+    {
+    "id": 1,
+    "manifetsNumber": "UXC-34579064434DSFG",
+    "name": "12m industrial hose pipes",
+    "quantity": 24
+    },
+    {
+    "id": 2,
+    "manifetsNumber": "UXC-34579064434DSFG",
+    "name": "2cm thick iron bars",
+    "quantity": 5
+    },
+    {
+    "id": 3,
+    "manifetsNumber": "UXC-34579064434DSFG",
+    "name": "Pipe lining bi-welded lorian brackets",
+    "quantity": 70
+    },
+    {
+    "id": 4,
+    "manifetsNumber": "UXC-34579064434DSFG",
+    "name": "12m industrial hose pipes",
+    "quantity": 8
+    }
+  ],
   "profile": {
     "name": "Chef"
   }
